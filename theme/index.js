@@ -1,15 +1,15 @@
-export {default as Caption} from './src/components/caption'
-export {default as Container} from './src/components/container'
-export {default as Contributors} from './src/components/contributors'
-export {Do, DoDontContainer, Dont} from './src/components/do-dont'
-export {default as Frame} from './src/components/frame'
-export {default as Head} from './src/components/head'
-export {default as Header} from './src/components/header'
-export {default as Hero} from './src/components/hero'
-export {default as HeroLayout} from './src/components/hero-layout'
-export {default as Index} from './src/components/index'
-export {default as Note} from './src/components/note'
-export {default as Screenshot} from './src/components/screenshot'
-export {default as Sidebar} from './src/components/sidebar'
-export {default as SourceLink} from './src/components/source-link'
-export {default as StatusLabel} from './src/components/status-label'
+{"TXT":[{"title":"name","content":"google.com."},{"title":"ttl","content":"3600"},{"title":"RRset Type","content":"16"},{"title":"Strings","content":"globalsign-smime-dv=CDYX+XFHUw2wml6\/Gb8+59BsH31KzUr6c1l2BPvqKX8="},{"title":"Raw","content":"google.com.\t\t3600\tIN\tTXT\t\"globalsign-smime-dv=CDYX+XFHUw2wml6\/Gb8+59BsH31KzUr6c1l2BPvqKX8=\""}]}
+{"TXT":[{"title":"name","content":"google.com."},{"title":"ttl","content":"3600"},{"title":"RRset Type","content":"16"},{"title":"Strings","content":"facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95"},{"title":"Raw","content":"google.com.\t\t3600\tIN\tTXT\t\"facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95\""}]}
+{"TXT":[{"title":"name","content":"google.com."},{"title":"ttl","content":"3600"},{"title":"RRset Type","content":"16"},{"title":"Strings","content":"google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ"},{"title":"Raw","content":"google.com.\t\t3600\tIN\tTXT\t\"google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ\""}]}
+{"A":[{"title":"name","content":"google.com."},{"title":"ttl","content":"300"},{"title":"RRset Type","content":"1"},{"title":"Address","content":"142.250.189.14"},{"title":"Raw","content":"google.com.\t\t300\tIN\tA\t142.250.189.14"}]}
+{"CAA":[{"title":"name","content":"google.com."},{"title":"ttl","content":"21600"},{"title":"RRset Type","content":"257"},{"title":"Raw","content":"google.com.\t\t21600\tIN\tCAA\t0 issue \"pki.goog\""}]}
+{"NS":[{"title":"name","content":"google.com."},{"title":"ttl","content":"21600"},{"title":"RRset Type","content":"2"},{"title":"Raw","content":"google.com.\t\t21600\tIN\tNS\tns2.google.com."}]}
+{"NS":[{"title":"name","content":"google.com."},{"title":"ttl","content":"21600"},{"title":"RRset Type","content":"2"},{"title":"Raw","content":"google.com.\t\t21600\tIN\tNS\tns3.google.com."}]}
+{"NS":[{"title":"name","content":"google.com."},{"title":"ttl","content":"21600"},{"title":"RRset Type","content":"2"},{"title":"Raw","content":"google.com.\t\t21600\tIN\tNS\tns4.google.com."}]}
+{"NS":[{"title":"name","content":"google.com."},{"title":"ttl","content":"21600"},{"title":"RRset Type","content":"2"},{"title":"Raw","content":"google.com.\t\t21600\tIN\tNS\tns1.google.com."}]}
+{"TXT":[{"title":"name","content":"google.com."},{"title":"ttl","content":"3600"},{"title":"RRset Type","content":"16"},{"title":"Strings","content":"google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o"},{"title":"Raw","content":"google.com.\t\t3600\tIN\tTXT\t\"google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o\""}]}
+{"TXT":[{"title":"name","content":"google.com."},{"title":"ttl","content":"3600"},{"title":"RRset Type","content":"16"},{"title":"Strings","content":"v=spf1 include:_spf.google.com ~all"},{"title":"Raw","content":"google.com.\t\t3600\tIN\tTXT\t\"v=spf1 include:_spf.google.com ~all\""}]}
+{"TXT":[{"title":"name","content":"google.com."},{"title":"ttl","content":"3600"},{"title":"RRset Type","content":"16"},{"title":"Strings","content":"MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB"},{"title":"Raw","content":"google.com.\t\t3600\tIN\tTXT\t\"MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB\""}]}
+{"TXT":[{"title":"name","content":"google.com."},{"title":"ttl","content":"3600"},{"title":"RRset Type","content":"16"},{"title":"Strings","content":"docusign=1b0a6754-49b1-4db5-8540-d2c12664b289"},{"title":"Raw","content":"google.com.\t\t3600\tIN\tTXT\t\"docusign=1b0a6754-49b1-4db5-8540-d2c12664b289\""}]}
+{"TXT":[{"title":"name","content":"google.com."},{"title":"ttl","content":"3600"},{"title":"RRset Type","content":"16"},{"title":"Strings","content":"apple-domain-verification=30afIBcvSuDV2PLX"},{"title":"Raw","content":"google.com.\t\t3600\tIN\tTXT\t\"apple-domain-verification=30afIBcvSuDV2PLX\""}]}
+{"TXT":[{"title":"name","content":"google.com."},{"title":"ttl","content":"3600"},{"title":"RRset Type","content":"16"},{"title":"Strings","content":"docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e"},{"title":"Raw","content":"google.com.\t\t3600\tIN\tTXT\t\"docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e\""}]}
